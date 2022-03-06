@@ -16,6 +16,10 @@
 
 .left-title, .right-links {
 	display: flex;
+	margin: 0;
+	padding: 0;
+	gap: 10px;
+	list-style-type: none;
 }
 
 .header {
