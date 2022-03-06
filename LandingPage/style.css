@@ -22,12 +22,15 @@
 	list-style-type: none;
 }
 
+.left-title {
+	font-weight: bold;
+}
+
 .header {
 	display: flex;
 	justify-content: space-around;
 	background-color: darkblue;
 	color: white;
-	font-weight: bold;
 }
 
 body{
