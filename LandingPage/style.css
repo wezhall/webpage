@@ -6,6 +6,7 @@
 	background-color: #151E3D;
 	display: flex;
 	color: white;
+	justify-content: center;
 }
 
 .section2 {
