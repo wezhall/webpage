@@ -61,3 +61,7 @@ button {
   border: 1px solid royalblue;
   color: white;
 }
+
+.main-text {
+	font-size: 48px;
+}
