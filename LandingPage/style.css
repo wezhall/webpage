@@ -30,6 +30,13 @@
 	color: #E5E7EB;
 }
 
+.secondary-text {
+	font-size: 18px;
+	color: #E5E7EB;
+	display: flex;
+	flex-wrap: wrap;
+}
+
 .left-title {
 	font-size: 24px;
 	color: #F9FAF8;
@@ -40,6 +47,9 @@
 	padding: 0;
 	gap: 10px;
 	list-style-type: none;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
 }
 
 .header {
@@ -66,4 +76,5 @@ button {
 	font-size: 48px;
 	font-weight: extra-bold;
 	color: #F9FAF8;
+	displa
 }
