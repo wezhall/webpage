@@ -87,6 +87,7 @@ button {
 
 .row {
 	display: flex;
+	margin: 20px;
 }
 
 .section2 {
