@@ -88,6 +88,7 @@ button {
 .row {
 	display: flex;
 	margin: 20px;
+	flex-direction: column;
 }
 
 .section2 {
