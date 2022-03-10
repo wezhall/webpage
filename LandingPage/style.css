@@ -84,3 +84,11 @@ button {
 .placeholder-image {
 	margin-left: 40px;
 }
+
+.row {
+	display: flex;
+}
+
+.section2 {
+	display: flex;
+}
