@@ -94,3 +94,8 @@ button {
 .section2 {
 	display: flex;
 }
+
+.section2-title {
+	display: flex;
+	justify-content: center;
+}
