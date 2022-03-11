@@ -112,3 +112,7 @@ button {
 	font-style: italic;
 	color: #1F2937;
 }
+
+.author {
+	font-weight: bold;
+}
