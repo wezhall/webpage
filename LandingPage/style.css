@@ -115,4 +115,5 @@ button {
 
 .author {
 	font-weight: bold;
+	display: flex;
 }
