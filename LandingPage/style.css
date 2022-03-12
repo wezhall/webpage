@@ -126,6 +126,7 @@ button {
 	display: flex;
 	justify-content: space-between;
 	background-color: royalblue;
+	margin: 50px 100px;
 }
 
 .blue-box-text {
