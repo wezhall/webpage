@@ -17,6 +17,7 @@
 
 .section3 {
 	background-color: #E5E7EB;
+	padding: 10px;
 }
 
 .left-title, .right-links {
@@ -117,4 +118,5 @@ button {
 	font-weight: bold;
 	display: flex;
 	justify-content: flex-end;
+	padding: 5px 200px;
 }
