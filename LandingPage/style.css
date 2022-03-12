@@ -121,3 +121,8 @@ button {
 	justify-content: flex-end;
 	padding: 5px 200px;
 }
+
+.blue-box {
+	display: flex;
+	justify-content: space-between;
+}
