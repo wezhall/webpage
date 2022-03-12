@@ -126,3 +126,10 @@ button {
 	display: flex;
 	justify-content: space-between;
 }
+
+.blue-box-text {
+	margin: 0;
+	padding: 0;
+	gap: 10px;
+	list-style-type: none;	
+}
